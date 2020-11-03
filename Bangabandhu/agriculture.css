@@ -1,0 +1,697 @@
+/**body**/
+
+.main_div1{
+background: #00000014;
+background-attachment: fixed;
+display: block;
+overflow: hidden;
+padding: 0px 0px 0px 1px;
+height: 4294px;
+margin-top: 3px;
+}
+
+.sub_div1{
+width: 1331px;
+height: 4292px;
+margin-top:1px;
+background-color:white;
+display: block;
+position: relative;
+}
+
+/**body end**/
+
+/**logo**/
+
+#logo img{
+width: 110px;
+height: 51px;
+margin-top: 5px;
+margin-left: 39px;
+position: absolute;
+border-radius:50%;
+}
+
+#mujib img{
+width: 110px;
+height: 51px;
+margin-top: -69px;
+margin-left: 1108px;
+position: absolute;
+border-radius:50%;
+}
+
+/**logo end**/
+
+
+
+/**restaurants**/
+.restaurants{
+width:838px;
+height: 216px;
+background: white;
+margin-top:62px;
+padding: 2px;
+position: absolute; 
+margin-left: -40px;
+-webkit-box-shadow: 5px 5px 15px 5px #0000001c;
+box-shadow: 7px 7px 11px -4px #0000001c;
+z-index: -1;
+}
+
+#top_restaurants img{
+width: 190px;
+height: 150px;
+margin-top: 13px;
+margin-left: 17px;
+position: absolute;
+float:left;
+}
+
+#top_restaurants h1{
+width: 408px;
+height: 129px;
+margin-top: 15px;
+margin-left: 226px;
+position: absolute;
+font-size: 21px;
+}
+
+#top_restaurants h2{
+width: 648px;
+height: 129px;
+margin-top: 45px;
+margin-left: 227px;
+position: absolute;
+font-size: 13px;
+}
+
+#top_restaurants p{
+width: 515px;
+height: 129px;
+margin-top: 66px;
+margin-left: 226px;
+position: absolute;
+text-align: justify;
+}
+
+#top_restaurants a{
+width: 94px;
+height: 26px;
+margin-top: 535px;
+margin-left: 19px;
+padding: 7px 4px 3px 22px;
+background: #FF9800;
+color: white;
+text-decoration: none;
+position: absolute;
+}
+
+/**restaurants end**/
+
+/**restaurant_review**/
+
+.restaurant_review{
+width:838px;
+height: 200px;
+background: white;
+margin-top:304px;
+padding: 2px;
+position: absolute; 
+margin-left: -40px;
+-webkit-box-shadow: 5px 5px 15px 5px #0000001c;
+box-shadow: 7px 7px 11px -4px #0000001c;
+}
+
+#restaurant_review img{
+width: 190px;
+height: 150px;
+margin-top: 13px;
+margin-left: 17px;
+position: absolute;
+float:left;
+}
+
+#restaurant_review h1{
+width: 408px;
+height: 129px;
+margin-top: 15px;
+margin-left: 226px;
+position: absolute;
+font-size: 21px;
+}
+
+#restaurant_review h2{
+width: 648px;
+height: 129px;
+margin-top: 44px;
+margin-left: 227px;
+position: absolute;
+font-size: 13px;
+}
+
+#restaurant_review p{
+width: 515px;
+height: 129px;
+margin-top: 66px;
+margin-left: 226px;
+position: absolute;
+text-align: justify;
+}
+
+#restaurant_review a{
+width: 94px;
+height: 26px;
+margin-top: 532px;
+margin-left: 19px;
+padding: 7px 4px 3px 22px;
+background: #FF9800;
+color: white;
+text-decoration: none;
+position: absolute;
+}
+/**restaurant_review end**/
+
+/**bd_food**/
+.bd_food{
+width:838px;
+height: 200px;
+background: white;
+margin-top:530px;
+padding: 2px;
+position: absolute; 
+margin-left: -40px;
+-webkit-box-shadow: 7px 7px 11px -4px #0000001c;
+box-shadow: 7px 7px 11px -4px #0000001c;
+}
+
+#bd_food img{
+width: 190px;
+height: 150px;
+margin-top: 13px;
+margin-left: 17px;
+position: absolute;
+float:left;
+}
+
+#bd_food h1{
+width: 408px;
+height: 129px;
+margin-top: 15px;
+margin-left: 226px;
+position: absolute;
+font-size: 21px;
+}
+
+#bd_food h2{
+width: 648px;
+height: 129px;
+margin-top: 45px;
+margin-left: 227px;
+position: absolute;
+font-size: 13px;
+}
+
+#bd_food p{
+width: 515px;
+height: 129px;
+margin-top: 66px;
+margin-left: 226px;
+position: absolute;
+text-align: justify;
+}
+
+#bd_food a{
+width: 94px;
+height: 26px;
+margin-top: 533px;
+margin-left: 19px;
+padding: 7px 4px 3px 22px;
+background: #FF9800;
+color: white;
+text-decoration: none;
+position: absolute;
+}
+/**bd_food end**/
+
+/**popular_restaurants**/
+.popular_restaurants{
+width:838px;
+height: 200px;
+background: white;
+margin-top:756px;
+padding: 2px;
+position: absolute; 
+margin-left: -40px;
+-webkit-box-shadow: 7px 7px 11px -4px #0000001c;
+box-shadow: 7px 7px 11px -4px #0000001c;
+}
+
+#popular_restaurant img{
+width: 190px;
+height: 150px;
+margin-top: 13px;
+margin-left: 17px;
+position: absolute;
+float:left;
+}
+
+#popular_restaurant h1{
+width: 408px;
+height: 129px;
+margin-top: 15px;
+margin-left: 226px;
+position: absolute;
+font-size: 21px;
+}
+
+#popular_restaurant h2{
+width: 648px;
+height: 137px;
+margin-top: 45px;
+margin-left: 227px;
+position: absolute;
+font-size: 13px;
+}
+
+#popular_restaurant p{
+width: 515px;
+height: 129px;
+margin-top: 66px;
+margin-left: 226px;
+position: absolute;
+text-align: justify;
+}
+
+#popular_restaurant a{
+width: 94px;
+height: 26px;
+margin-top: 547px;
+margin-left: 19px;
+padding: 7px 4px 3px 22px;
+background: #FF9800;
+color: white;
+text-decoration: none;
+position: absolute;
+}
+/**popular_restaurants end**/
+
+/**bd_edu**/
+
+.bd_edu{
+width:838px;
+height: 200px;
+background: white;
+margin-top:982px;
+padding: 2px;
+position: absolute; 
+margin-left: -40px;
+-webkit-box-shadow: 7px 7px 11px -4px #0000001c;
+box-shadow: 7px 7px 11px -4px #0000001c;
+}
+
+#bd_edu img{
+width: 190px;
+height: 150px;
+margin-top: 13px;
+margin-left: 17px;
+position: absolute;
+float:left;
+}
+
+#bd_edu h1{
+width: 408px;
+height: 129px;
+margin-top: 15px;
+margin-left: 226px;
+position: absolute;
+font-size: 21px;
+}
+
+#bd_edu h2{
+width: 648px;
+height: 129px;
+margin-top: 45px;
+margin-left: 227px;
+position: absolute;
+font-size: 13px;
+}
+
+#bd_edu p{
+width: 515px;
+height: 129px;
+margin-top: 66px;
+margin-left: 226px;
+position: absolute;
+text-align: justify;
+}
+
+#bd_edu a{
+width: 94px;
+height: 26px;
+margin-top: 533px;
+margin-left: 19px;
+padding: 7px 4px 3px 22px;
+background: #FF9800;
+color: white;
+text-decoration: none;
+position: absolute;
+}
+/**bd_food end**/
+
+
+
+
+
+/**categories**/
+.categories{
+float: right;
+background: white;
+margin-right: -40px;
+margin-top: 65px;
+width: 423px;
+height: 1121px;
+}
+
+#nav_continer{
+border-left: 6px double #8A8D912E;
+height: 1121px;
+border-radius: 78px 0px 0px 0px;
+}
+
+.nav_menu h1{
+  width: 70px;
+  height: 20px;
+  margin-left: 60px;
+  margin-top: 65px;
+  position: absolute;
+}
+
+#nav_menu{
+  margin-left: 24px;
+  margin-top: 103px;
+  position: absolute;
+}
+
+#nav_menu li{
+border-spacing: 2px;
+position: relative;
+list-style-type: none;
+}
+
+#nav_menu li a{
+text-decoration: none;
+color:black;
+line-height: 32px;
+}
+
+#nav_menu li a:hover{
+color:#FF9800;
+}
+
+.post{
+  margin-top: 333px;
+  margin-left: 61px;
+  position:absolute;
+}
+
+.post h1{
+height: 30px;
+margin-left: -1px;
+margin-top: 2px;
+}
+
+.post p a{
+text-decoration: none;
+color:black;
+}
+
+.post p a:hover{
+color:#FF9800;
+}
+
+.nav_pages{
+  margin-top: 553px;
+  margin-left: 25px;
+  position:absolute;
+}
+
+.nav_pages h1{
+  margin-top: -21px;
+  margin-left: 37px;
+  position:absolute;
+}
+
+#nav_pages li{
+border-spacing: 2px;
+position: relative;
+list-style-type: none;
+}
+
+#nav_pages li a{
+text-decoration: none;
+color:black;
+line-height: 32px;
+}
+
+#nav_pages li a:hover{
+color:#FF9800;
+}
+/**categories end**/
+
+/**subscrip1**/
+
+.subscrip1{
+width: 1315px;
+height: 622px;
+background-color: whitesmoke;
+position: absolute;
+margin-top:1186px;
+background-image: url(img/canon-get-inspired.jpg);
+margin-left: -40px;
+}
+
+.subscrip1 h1{
+width: 228px;
+height: 37px;
+margin-top: 107px;
+margin-left: 525px;
+font-size: 31px;
+position: absolute;
+border-top: 3px double #EC9538;
+border-bottom: 3px double #EC9538;
+padding: 5px 21px;
+color: black;
+background: #0000;
+border-radius: 6px;
+
+}
+
+#signup2{
+width: 709px;
+height: 105px;
+margin-left: 20%;
+margin-top: 251px;
+padding: 40px;
+background: #fff6;
+border: 5px solid #1C6EA400;
+-webkit-box-shadow: 5px 5px 15px 5px #0000000f;
+box-shadow: 5px 5px 15px 5px #0000000f;
+}
+
+#signup2 h2{
+  text-align: center;
+  margin-left: 2px;
+  margin-top: 3px;
+}
+
+
+#signup2 input{
+width: 333px;
+height: 31px;
+margin-left: 170px;
+margin-top: 16px;
+border: 2px solid #E3E3E3;
+}
+
+#signup2 button{
+width: 108px;
+height: 37px;
+margin-left: -109px;
+margin-top: 16px;
+padding: 10px;
+position: absolute;
+background: #E67700;
+}
+
+#signup2 button a{
+text-decoration: none;
+font-size: 15px;
+margin-top: -10px;
+position: absolute;
+margin-left: -24px;
+color: white;
+}
+
+/**subscrip1 end**/
+
+/**footter**/
+.foot1{
+background: #282d7712;
+padding: 32px;
+width: 1251px;
+height: 174px;
+margin-left: -40px;
+margin-top:1808px;
+}
+
+.col11 h1{
+margin-top: -9px;
+margin-left: 1px;
+padding: 1%;
+color:#1B2327;
+font-size: 20px;
+}
+
+.col11 p{
+width: 274px;
+margin-top: -35px;
+margin-left: 1px;
+padding: 1%;
+float: left;
+color:black;
+text-align: justify;
+}
+
+.col21 h2{
+margin-top: -74px;
+margin-left: 362px;
+padding: 2%;
+color:#1B2327;
+font-size: 20px;
+}
+
+.col21 ul{
+display: block;
+margin-top: -35px;
+margin-left: 350px;
+}
+
+.col21 ul li{
+list-style-type: none;
+}
+
+.col21 ul li a{
+text-decoration: none;
+color: black;
+}
+
+
+#feb img{
+    width: 346px;
+    height: 221px;
+    margin-left: 215px;
+    margin-top: -193px;
+}
+
+
+.col31 h3{
+margin-top:-228px;
+margin-left: 869px;
+padding: 2%;
+font-size: 28px;
+color: #1B2327;
+font-size: 20px;
+}
+
+.col31 ul{
+display: block;
+margin-top: -47px;
+margin-left:855px;
+}
+
+.col31 ul li{
+list-style-type: none;
+}
+
+.col31 ul li a{
+text-decoration: none;
+color: black;
+}
+
+
+.col41 {
+width: 1303px;
+margin-top: -167px;
+margin-left: 221px;
+padding: 1%;
+display: block;
+color:#1B2327;
+}
+
+.col41 p{
+margin-top: -37px;
+margin-left: 894px;
+padding: 1%;
+display: block;
+color:black;
+}
+
+.col41 h1{
+margin-top: -19px;
+margin-left: 894px;
+padding: 1%;
+color:#1B2327;
+font-size: 20px;
+}
+
+footer{
+padding: 18px 20px;
+width: 1277px;
+height: 16px;
+background: #020B0FE6;
+margin-top: 0px;
+margin-left: -41px;
+text-align: center;
+color: white;
+background-image: url(img/bright-squares.png);
+}
+
+footer a{
+  color: white;
+  text-decoration: none;
+}
+
+footer ul{
+list-style-type: none;
+width: 176px;
+height: 36px;
+margin-top: -32px;
+padding: 1px;
+margin-left:1105px;
+}
+
+footer ul li{
+  display:inline;
+}
+
+footer img{
+width: 28px;
+margin-top: 7px;
+}
+
+.go1{
+margin: 0px;
+margin-top: 0px;
+padding: 0px;
+float: left;
+margin-top: -44px; 
+}
+
+.go1 a{
+  color:white;
+}
+
+/**footter end**/
+
+
